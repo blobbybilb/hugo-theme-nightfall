@@ -1,0 +1,6 @@
+[submodule "exampleSite/themes/terminal"]
+	path = exampleSite/themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "exampleSite/themes/nightfall"]
+	path = exampleSite/themes/nightfall
+	url = https://github.com/blobbybilb/hugo-theme-nightfall
